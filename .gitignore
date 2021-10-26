@@ -1,3 +1,8 @@
 .idea
 data/steam_reviews.csv
 .ipynb_checkpoints
+steam_reviews.csv
+__pycache__
+draft.ipynb
+requirements.txt
+ADM_HW2.pdf
